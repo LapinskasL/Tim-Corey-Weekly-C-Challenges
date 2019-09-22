@@ -1,0 +1,7 @@
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ConfigFileChallenge\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ConfigFileChallenge\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ConfigFileChallenge\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ConfigFileChallenge\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ConfigFileChallenge\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ConfigFileChallenge\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ConfigFileChallenge\ConsoleUI\obj\Debug\ConsoleUI.pdb
