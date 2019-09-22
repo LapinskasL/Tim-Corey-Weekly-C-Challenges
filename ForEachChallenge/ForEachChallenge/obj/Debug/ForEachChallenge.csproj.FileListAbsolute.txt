@@ -1,0 +1,7 @@
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ForEachChallenge\ForEachChallenge\bin\Debug\ForEachChallenge.exe.config
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ForEachChallenge\ForEachChallenge\bin\Debug\ForEachChallenge.exe
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ForEachChallenge\ForEachChallenge\bin\Debug\ForEachChallenge.pdb
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ForEachChallenge\ForEachChallenge\obj\Debug\ForEachChallenge.csprojAssemblyReference.cache
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ForEachChallenge\ForEachChallenge\obj\Debug\ForEachChallenge.csproj.CoreCompileInputs.cache
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ForEachChallenge\ForEachChallenge\obj\Debug\ForEachChallenge.exe
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ForEachChallenge\ForEachChallenge\obj\Debug\ForEachChallenge.pdb
