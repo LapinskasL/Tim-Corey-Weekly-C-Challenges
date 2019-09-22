@@ -1,0 +1,17 @@
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\bin\Debug\DemoLibrary.dll
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\bin\Debug\ConsoleUI.exe
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\bin\Debug\ConsoleUI.pdb
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\obj\Debug\ConsoleUI.exe
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ErrorHandlingChallengeStarterCode\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ErrorHandlingChallengeStarterCode\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ErrorHandlingChallengeStarterCode\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ErrorHandlingChallengeStarterCode\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ErrorHandlingChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ErrorHandlingChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ErrorHandlingChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\ErrorHandlingChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.pdb
