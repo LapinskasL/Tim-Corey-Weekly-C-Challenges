@@ -1,0 +1,7 @@
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\DateTimeChallenge\DateTimeChallenge\obj\Debug\DateTimeChallenge.csprojAssemblyReference.cache
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\DateTimeChallenge\DateTimeChallenge\obj\Debug\DateTimeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\DateTimeChallenge\DateTimeChallenge\bin\Debug\DateTimeChallenge.exe.config
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\DateTimeChallenge\DateTimeChallenge\bin\Debug\DateTimeChallenge.exe
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\DateTimeChallenge\DateTimeChallenge\bin\Debug\DateTimeChallenge.pdb
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\DateTimeChallenge\DateTimeChallenge\obj\Debug\DateTimeChallenge.exe
+C:\Users\looku\OneDrive\FREE TIME PROJECTS\C-sharp Practice\Weekly Challenges (Tim Corey)\DateTimeChallenge\DateTimeChallenge\obj\Debug\DateTimeChallenge.pdb
