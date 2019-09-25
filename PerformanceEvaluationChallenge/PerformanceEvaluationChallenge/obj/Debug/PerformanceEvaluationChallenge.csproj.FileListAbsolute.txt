@@ -1,0 +1,7 @@
+C:\Users\looku\source\repos\PerformanceEvaluationChallenge\PerformanceEvaluationChallenge\bin\Debug\PerformanceEvaluationChallenge.exe.config
+C:\Users\looku\source\repos\PerformanceEvaluationChallenge\PerformanceEvaluationChallenge\bin\Debug\PerformanceEvaluationChallenge.exe
+C:\Users\looku\source\repos\PerformanceEvaluationChallenge\PerformanceEvaluationChallenge\bin\Debug\PerformanceEvaluationChallenge.pdb
+C:\Users\looku\source\repos\PerformanceEvaluationChallenge\PerformanceEvaluationChallenge\obj\Debug\PerformanceEvaluationChallenge.csprojAssemblyReference.cache
+C:\Users\looku\source\repos\PerformanceEvaluationChallenge\PerformanceEvaluationChallenge\obj\Debug\PerformanceEvaluationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\looku\source\repos\PerformanceEvaluationChallenge\PerformanceEvaluationChallenge\obj\Debug\PerformanceEvaluationChallenge.exe
+C:\Users\looku\source\repos\PerformanceEvaluationChallenge\PerformanceEvaluationChallenge\obj\Debug\PerformanceEvaluationChallenge.pdb
